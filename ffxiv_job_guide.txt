@@ -1,0 +1,169 @@
+Final Fantasy XIV Job Selection Guide
+
+Introduction to Job Roles
+
+In Final Fantasy XIV, jobs are divided into five main roles:
+
+Tank: High defense and HP, responsible for keeping enemy attention and protecting allies.
+
+Healer: Focused on restoring HP, mitigating damage, and reviving fallen allies.
+
+Melee DPS: Close-range damage dealers that rely on combos and positioning.
+
+Physical Ranged DPS: Attack from a distance with mobility and utility support.
+
+Magical Ranged DPS: Cast powerful spells, often requiring proper positioning.
+
+Job Descriptions
+
+Tanks:
+
+Paladin: Defensive tank with strong mitigation and party support.
+
+Aesthetic: Traditional knight in shining armor, wielding a sword and shield.
+
+Abilities: Strong defensive cooldowns, healing spells, and party support abilities.
+
+Complexity: 2/5 – Straightforward rotation with a focus on defense.
+
+Warrior: Self-healing tank with high-damage output.
+
+Aesthetic: Fierce berserker with a massive greataxe.
+
+Abilities: High self-healing, damage mitigation, and burst damage potential.
+
+Complexity: 3/5 – Managing the Beast Gauge adds depth.
+
+Dark Knight: Magical-infused tank with a focus on damage mitigation.
+
+Aesthetic: Brooding warrior clad in dark armor, wielding a greatsword.
+
+Abilities: Dark-themed attacks, strong defensive skills, and resource management.
+
+Complexity: 4/5 – Requires balancing multiple resources.
+
+Gunbreaker: High-action tank with quick abilities and strong burst damage.
+
+Aesthetic: Combines swordplay with gun mechanics, inspired by "gunblades."
+
+Abilities: Fast-paced combos, defensive cooldowns, and damage-dealing skills.
+
+Complexity: 3/5 – Managing combos and cartridges adds complexity.
+
+Healers:
+
+White Mage: Pure healer with potent healing spells.
+
+Aesthetic: Classic healer with white robes and a cane.
+
+Abilities: Powerful healing spells, regenerative abilities, and some offensive magic.
+
+Complexity: 2/5 – User-friendly with a straightforward healing toolkit.
+
+Scholar: Uses a fairy companion to shield and heal.
+
+Aesthetic: Tactician accompanied by a fairy companion.
+
+Abilities: Shield-based healing, fairy-assisted spells, and damage mitigation.
+
+Complexity: 4/5 – Managing the fairy and timing shields requires attention.
+
+Astrologian: Card-based healing with buffs.
+
+Aesthetic: Mystical fortune-teller wielding a star globe.
+
+Abilities: Healing spells, card-based buffs, and flexible stances.
+
+Complexity: 5/5 – Balancing card mechanics and stances is intricate.
+
+Sage: Barrier healer with offensive capabilities.
+
+Aesthetic: Futuristic healer with floating nouliths (aether-infused weapons).
+
+Abilities: Barrier-based healing, damage-dealing spells, and shielding allies.
+
+Complexity: 3/5 – Integrates offense with healing, requiring balance.
+
+Magical Ranged DPS:
+
+Black Mage: Devastating magic caster with a focus on high burst damage.
+
+Aesthetic: Traditional arcane wizard with a pointed hat and flowing robes.
+
+Abilities: Casts powerful spells with a fire and ice rotation, maximizing damage output.
+
+Complexity: 5/5 – Requires stationary casting and precise timing.
+
+Summoner: Pet-based caster with powerful summon abilities.
+
+Aesthetic: Wields grimoires to summon primal entities.
+
+Abilities: Summons powerful allies, casts damage-over-time spells, and has high mobility.
+
+Complexity: 3/5 – Simple to play but managing summons effectively takes practice.
+
+Red Mage: Hybrid melee and magic user with elegant casting and swordplay.
+
+Aesthetic: Stylish duelist wearing a plumed hat and red attire.
+
+Abilities: Balances white and black magic, executes melee finishers, and provides party support.
+
+Complexity: 3/5 – Managing mana balance and melee combos adds depth.
+
+Pictomancer: Artistic spellcaster that creates reality from paintings.
+
+Aesthetic: A mystical artist who uses brushstrokes and magical ink.
+
+Abilities: Constructs spells based on artistic inspiration and summons magical creatures.
+
+Complexity: 4/5 – Requires strategic planning for spell usage.
+
+Physical Ranged DPS:
+
+Bard: Buffs party members while attacking from range.
+
+Aesthetic: Melodic archer with musical instruments.
+
+Abilities: Damage over time effects, party buffs, and songs.
+
+Complexity: 3/5 – Balancing damage and support through songs.
+
+Machinist: Uses firearms and mechanical constructs.
+
+Aesthetic: Technological gunner with firearms and gadgets.
+
+Abilities: High burst damage, deployable turrets, and mobility tools.
+
+Complexity: 3/5 – High APM (actions per minute) with fast-paced attacks.
+
+Dancer: Provides party buffs while maintaining DPS.
+
+Aesthetic: Graceful performer using elegant dance moves to enhance allies.
+
+Abilities: Buffs allies with dances, performs ranged attacks.
+
+Complexity: 2/5 – Simple but requires good buff management.
+
+Job Popularity & Statistics
+
+Most Popular Jobs: Summoner, Red Mage, and Samurai are among the most frequently played jobs.
+
+Least Popular Jobs: Astrologian and Machinist tend to have lower representation.
+
+For up-to-date statistics, refer to: https://ffxivcensus.com/
+
+Common Questions & Recommendations
+
+"I want to use a melee character." → Recommended: Monk, Dragoon, Samurai, Ninja, Reaper, or Viper.
+
+"What is the most popular job?" → Currently, Summoner and Red Mage are highly played.
+
+"Which healer should I pick?" → White Mage for simplicity, Scholar for shields, Astrologian for buffs, Sage for a hybrid playstyle.
+
+Additional Resources
+
+Official Job Guide: https://na.finalfantasyxiv.com/jobguide/battle/
+
+Community Statistics: https://ffxivcensus.com/
+
+This guide will help players choose the best job based on their preferred playstyle.
