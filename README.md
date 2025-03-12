@@ -20,7 +20,7 @@ We then need to install it into the environment via two means
 
 1.) Enter Windows Powershell and use $env:"_API key_"
 
-2.) A much simpler approach, use this code already in the script
+2.) A much simpler approach, use this code already in the script (but commented out)
 
 import os
 
